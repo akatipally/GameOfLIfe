@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="791844fe-9be0-4e6e-a031-708a17355002" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dYZEyuZC6NLxyaudFqEA0nTfOn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.graphics">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gameoflife" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graphics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gameoflife" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/graphics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.game" />
+      <item itemvalue="Python.graphics" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.graphics" />
+        <item itemvalue="Python.game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="791844fe-9be0-4e6e-a031-708a17355002" name="Default Changelist" comment="" />
+      <created>1592603879158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592603879158</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="156" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592613914683">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="156" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592613914683" />
+    <state x="156" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592613880222" />
+    <state x="455" y="-830" key="#xdebugger.evaluate" timestamp="1592611900836">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="455" y="-830" key="#xdebugger.evaluate/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592611900836" />
+    <state width="1899" height="305" key="GridCell.Tab.0.bottom" timestamp="1592626376778">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592626376778" />
+    <state width="1899" height="305" key="GridCell.Tab.0.bottom/0.23.1440.877/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592622625651" />
+    <state width="1899" height="305" key="GridCell.Tab.0.center" timestamp="1592626376776">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="305" key="GridCell.Tab.0.center/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592626376776" />
+    <state width="1899" height="305" key="GridCell.Tab.0.center/0.23.1440.877/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592622625649" />
+    <state width="1899" height="305" key="GridCell.Tab.0.left" timestamp="1592626376775">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="305" key="GridCell.Tab.0.left/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592626376775" />
+    <state width="1899" height="305" key="GridCell.Tab.0.left/0.23.1440.877/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592622625647" />
+    <state width="1899" height="305" key="GridCell.Tab.0.right" timestamp="1592626376777">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="305" key="GridCell.Tab.0.right/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592626376777" />
+    <state width="1899" height="305" key="GridCell.Tab.0.right/0.23.1440.877/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592622625650" />
+    <state width="1899" height="376" key="GridCell.Tab.1.bottom" timestamp="1592622347239">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.1.bottom/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592622347239" />
+    <state width="1899" height="376" key="GridCell.Tab.1.bottom/0.23.1440.877/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592612956544" />
+    <state width="1899" height="376" key="GridCell.Tab.1.center" timestamp="1592622347237">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.1.center/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592622347237" />
+    <state width="1899" height="376" key="GridCell.Tab.1.center/0.23.1440.877/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592612956542" />
+    <state width="1899" height="376" key="GridCell.Tab.1.left" timestamp="1592622347236">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.1.left/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592622347236" />
+    <state width="1899" height="376" key="GridCell.Tab.1.left/0.23.1440.877/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592612956541" />
+    <state width="1899" height="376" key="GridCell.Tab.1.right" timestamp="1592622347238">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="376" key="GridCell.Tab.1.right/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592622347238" />
+    <state width="1899" height="376" key="GridCell.Tab.1.right/0.23.1440.877/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592612956543" />
+    <state x="201" y="-901" key="SettingsEditor" timestamp="1592619532265">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="201" y="-901" key="SettingsEditor/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592619532265" />
+    <state x="357" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1592614196798">
+      <screen x="-268" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="357" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-268.-1080.1920.1080@-268.-1080.1920.1080" timestamp="1592614196798" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/graphics.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
